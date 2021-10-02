@@ -1,0 +1,9 @@
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaDominio/bin/Debug/netstandard2.0/AgenciaBancariaDominio.deps.json
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaDominio/bin/Debug/netstandard2.0/AgenciaBancariaDominio.dll
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaDominio/bin/Debug/netstandard2.0/AgenciaBancariaDominio.pdb
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaDominio/obj/Debug/netstandard2.0/AgenciaBancariaDominio.csprojAssemblyReference.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaDominio/obj/Debug/netstandard2.0/AgenciaBancariaDominio.AssemblyInfoInputs.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaDominio/obj/Debug/netstandard2.0/AgenciaBancariaDominio.AssemblyInfo.cs
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaDominio/obj/Debug/netstandard2.0/AgenciaBancariaDominio.csproj.CoreCompileInputs.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaDominio/obj/Debug/netstandard2.0/AgenciaBancariaDominio.dll
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaDominio/obj/Debug/netstandard2.0/AgenciaBancariaDominio.pdb

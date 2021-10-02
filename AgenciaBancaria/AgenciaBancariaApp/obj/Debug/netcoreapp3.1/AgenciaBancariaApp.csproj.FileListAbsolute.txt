@@ -1,0 +1,16 @@
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/bin/Debug/netcoreapp3.1/AgenciaBancariaApp
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/bin/Debug/netcoreapp3.1/AgenciaBancariaApp.deps.json
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/bin/Debug/netcoreapp3.1/AgenciaBancariaApp.runtimeconfig.json
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/bin/Debug/netcoreapp3.1/AgenciaBancariaApp.runtimeconfig.dev.json
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/bin/Debug/netcoreapp3.1/AgenciaBancariaApp.dll
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/bin/Debug/netcoreapp3.1/AgenciaBancariaApp.pdb
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/bin/Debug/netcoreapp3.1/AgenciaBancariaDominio.dll
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/bin/Debug/netcoreapp3.1/AgenciaBancariaDominio.pdb
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/obj/Debug/netcoreapp3.1/AgenciaBancariaApp.csprojAssemblyReference.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/obj/Debug/netcoreapp3.1/AgenciaBancariaApp.AssemblyInfoInputs.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/obj/Debug/netcoreapp3.1/AgenciaBancariaApp.AssemblyInfo.cs
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/obj/Debug/netcoreapp3.1/AgenciaBancariaApp.csproj.CoreCompileInputs.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/obj/Debug/netcoreapp3.1/AgenciaBancariaApp.csproj.CopyComplete
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/obj/Debug/netcoreapp3.1/AgenciaBancariaApp.dll
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/obj/Debug/netcoreapp3.1/AgenciaBancariaApp.pdb
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/AgenciaBancaria/AgenciaBancariaApp/obj/Debug/netcoreapp3.1/AgenciaBancariaApp.genruntimeconfig.cache
