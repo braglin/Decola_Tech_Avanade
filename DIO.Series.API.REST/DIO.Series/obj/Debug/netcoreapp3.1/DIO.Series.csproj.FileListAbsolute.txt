@@ -1,0 +1,13 @@
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.deps.json
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.json
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.dev.json
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.dll
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csprojAssemblyReference.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csproj.CoreCompileInputs.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache

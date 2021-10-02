@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2SIij/nOO63A3uzGSVTS+cIHZbHwQFx1XJ9FuVwJ/P4m0r4K/R+IFc4K2WvIff3ZV1NOxlYyEz+FXdfx3GpOJw==",
+  "success": true,
+  "projectFilePath": "/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series.API.REST/DIO.Series.Console/DIO.Series.Console.csproj",
+  "expectedPackageFiles": [
+    "/home/fabio/.nuget/packages/microsoft.netcore.app.ref/5.0.0-rc.1.20451.14/microsoft.netcore.app.ref.5.0.0-rc.1.20451.14.nupkg.sha512"
+  ],
+  "logs": []
+}

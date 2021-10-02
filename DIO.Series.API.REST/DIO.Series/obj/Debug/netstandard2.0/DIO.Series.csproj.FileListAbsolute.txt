@@ -1,0 +1,9 @@
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series.API.REST/DIO.Series/bin/Debug/netstandard2.0/DIO.Series.deps.json
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series.API.REST/DIO.Series/bin/Debug/netstandard2.0/DIO.Series.dll
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series.API.REST/DIO.Series/bin/Debug/netstandard2.0/DIO.Series.pdb
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series.API.REST/DIO.Series/obj/Debug/netstandard2.0/DIO.Series.csprojAssemblyReference.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series.API.REST/DIO.Series/obj/Debug/netstandard2.0/DIO.Series.AssemblyInfoInputs.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series.API.REST/DIO.Series/obj/Debug/netstandard2.0/DIO.Series.AssemblyInfo.cs
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series.API.REST/DIO.Series/obj/Debug/netstandard2.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series.API.REST/DIO.Series/obj/Debug/netstandard2.0/DIO.Series.dll
+/home/fabio/dev/learning/bootcamp/decola_tech_avanade/DIO.Series.API.REST/DIO.Series/obj/Debug/netstandard2.0/DIO.Series.pdb
