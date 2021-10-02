@@ -6,3 +6,6 @@
 
 
 DIO.Series - Projeto de implementação de POO com simulação de um sistema para cadastro de séries.
+
+
+ApiCatalogoJogos - Projeto de implementação de arquitetura base de API. (Problemas de compatibilidade com o middleware pendente - WriteAsJsonAsync)
